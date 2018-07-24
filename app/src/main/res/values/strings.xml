@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmojiExperiment</string>
+    <string name="type_stuff_here">Type stuff here</string>
+    <string name="send">Send</string>
+</resources>
